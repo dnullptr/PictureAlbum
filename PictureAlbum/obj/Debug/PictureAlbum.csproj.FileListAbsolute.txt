@@ -1,0 +1,16 @@
+H:\PictureAlbum\PictureAlbum\bin\Debug\PictureAlbum.exe.config
+H:\PictureAlbum\PictureAlbum\bin\Debug\PictureAlbum.exe
+H:\PictureAlbum\PictureAlbum\bin\Debug\PictureAlbum.pdb
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.csprojAssemblyReference.cache
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.PhotoForm.resources
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.Properties.Resources.resources
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.csproj.GenerateResource.cache
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.csproj.CoreCompileInputs.cache
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.exe
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.pdb
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.Form1.resources
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.CategoryForm.resources
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.LocationForm.resources
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.ShowPhoto.resources
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.ImageListViewForm.resources
+H:\PictureAlbum\PictureAlbum\obj\Debug\PictureAlbum.LoadFromFolder.resources
